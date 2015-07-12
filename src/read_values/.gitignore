@@ -1,0 +1,7 @@
+# AtmelStudio
+Debug
+Release
+Visual Micro
+*.atsln
+*.atsuo
+*.cppproj
